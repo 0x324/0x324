@@ -56,7 +56,7 @@
 <br/>  
 
 
-<div align="center"><img src="https://api.status.gg/discord/1101825826649030680?format=svg&hide%5BlargeImage%5D=true&hide%5Bspotify%5D=true&hide%5BstatusIcon%5D=true" align="center" /></div>  
+<div align="center"><img src="https://api.status.gg/discord/1101825826649030680?format=svg" align="center" /></div>  
 
 
 <br/>  
