@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Overlying, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Ezz, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on an Raider  
