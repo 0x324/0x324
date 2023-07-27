@@ -56,6 +56,9 @@
 <br/>  
 
 
+<div align="center"><img src="https://api.status.gg/discord/1101825826649030680?format=svg&hide%5BlargeImage%5D=true&hide%5Bspotify%5D=true&hide%5BstatusIcon%5D=true" align="center" /></div>  
+
+
 <br/>  
 
 <div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=josefrontini&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=josefrontini&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" /></div>  
