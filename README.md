@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Bash   
   
 
-- ⚡ Fun fact: I don't know how to use request  
+- ⚡ Fun fact: I don't know how to use requests  
   
 
 <br/>  
