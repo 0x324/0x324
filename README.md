@@ -29,8 +29,8 @@
 	
 	def Ambitions():
 		CreateSkyNet()
-                Destroysql()
-   	# Assume 10 more awesome ambitions here  ;)
+ Destroysql()
+
 	
  ```
 
