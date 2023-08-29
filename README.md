@@ -20,8 +20,8 @@
  	user = '0x 324'
 		current_work = 'Writing code'
 		hobbies = [
-	  break on to db
-	  Leak tools
+	  breakintodb()
+	  leak_tools()
 			]
 	
 	def getCity():
