@@ -1,84 +1,40 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+## Hey, 0x here!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> 
+
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
+## :computer: Technologies I Love
+* Ethical Hacking
+* Developing
   
-
-### <div align="center">I'm Ezz, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on an Raider  
-  
-
-- 🌱 I’m currently learning Bash   
-  
-
-- ⚡ Fun fact: I don't know how to use requests  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.shellscript.sh" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/?size=512&id=9MJf0ngDwS8z&format=svg" alt="Shell" height="50" /></a>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<a href="https://stackoverflow.com/users/overlying" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ezzontop&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<div align="center"><img src="https://api.status.gg/discord/1101825826649030680?format=svg" align="center" /></div>  
-
-
-<br/>  
-
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=josefrontini&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=josefrontini&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=overlying&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/overlyingg" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src =
+'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ 
+ ## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = '0x 324'
+		current_work = 'Writing code'
+		hobbies = [
+	  nothin fr
+			]
+	
+	def getCity():
+		return Rome_Italy()
+	
+	def Ambitions():
+		CreateSkyNet()
+    Destroysql()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
+ 
+## Current Works
+ * Breaking into Cybersec !!
+ 
+ 
