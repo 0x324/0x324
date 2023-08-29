@@ -28,7 +28,7 @@
 	
 	def Ambitions():
 		CreateSkyNet()
- Destroysql()
+		Destroysql()
 
 	
  ```
