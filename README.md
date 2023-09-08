@@ -31,7 +31,7 @@
 
 	
  ```
-<img src="https://api.status.gg/discord/1101825826649030680?theme%5Blogo%5D=ff0000" width="350">
+<img src="https://api.status.gg/discord/1127000589327421530?theme%5Blogo%5D=ff0000" width="350">
 <img src="https://api.status.gg/telegram/6492301454" width="350">
  
  
