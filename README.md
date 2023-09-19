@@ -34,7 +34,7 @@
 
 	
  ```
-<img src="https://discord.c99.nl/widget/theme-4/1151934132411187261.png" width="350">
+<img src="https://discord.c99.nl/widget/theme-1/1152335683361460326.png" width="350">
 <img src="https://api.status.gg/telegram/6492301454" width="350">
  
  
