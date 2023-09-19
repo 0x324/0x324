@@ -3,7 +3,7 @@
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F749&width=435&lines=Now+everyone+can+be+happy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Now+everyone+can+be+happy)](https://git.io/typing-svg)
 
 ## :computer: Technologies I Love
 * Ethical Hacking
