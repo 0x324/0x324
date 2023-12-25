@@ -18,7 +18,7 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = '0x 324'
+ 	user = '0x324'
 		current_work = 'Writing code'
 		hobbies = [
 	  breakintodb()
