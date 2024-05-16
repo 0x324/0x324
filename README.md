@@ -26,7 +26,7 @@
 			]
 	
 	def getCity():
-		return Rome_Italy()
+		return Italy()
 	
 	def Ambitions():
 		CreateSkyNet()
