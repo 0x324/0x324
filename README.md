@@ -20,9 +20,7 @@
  class WhoAmI:
  	user = '0x324'
 		current_work = 'Writing code'
-		hobbies = [
-	  breakintodb()
-	  leaktools()
+		
 			]
 	
 	def getCity():
